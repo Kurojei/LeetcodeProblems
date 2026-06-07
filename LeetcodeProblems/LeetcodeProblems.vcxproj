@@ -131,6 +131,7 @@
     <ClCompile Include="KidsWithCandies.cpp" />
     <ClCompile Include="LeetcodeProblems.cpp" />
     <ClCompile Include="MaximumAverageSubarrayI.cpp" />
+    <ClCompile Include="MaximumNumberOfVowelsInASubstrOfGivenLength.cpp" />
     <ClCompile Include="MaxNumberOfKSumPairs.cpp" />
     <ClCompile Include="MergeStringsAlternatively.cpp" />
     <ClCompile Include="MoveZeroes.cpp" />
