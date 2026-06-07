@@ -13,10 +13,61 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Array/String">
+      <UniqueIdentifier>{6322381d-b2be-41e6-89d2-90eac62df2f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TwoPointers">
+      <UniqueIdentifier>{db5f0385-27e0-48e8-b615-c642de70e441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SlidingWindow">
+      <UniqueIdentifier>{23dac304-e960-4272-9858-c742540e64b6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetcodeProblems.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CanPlaceFlowers.cpp">
+      <Filter>Source Files\Array/String</Filter>
+    </ClCompile>
+    <ClCompile Include="gcdOfStrings.cpp">
+      <Filter>Source Files\Array/String</Filter>
+    </ClCompile>
+    <ClCompile Include="IncreasingTripletSubsequence.cpp">
+      <Filter>Source Files\Array/String</Filter>
+    </ClCompile>
+    <ClCompile Include="KidsWithCandies.cpp">
+      <Filter>Source Files\Array/String</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeStringsAlternatively.cpp">
+      <Filter>Source Files\Array/String</Filter>
+    </ClCompile>
+    <ClCompile Include="ProductOfArrayExceptSelf.cpp">
+      <Filter>Source Files\Array/String</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseVowelsOfAString.cpp">
+      <Filter>Source Files\Array/String</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseWordsInAString.cpp">
+      <Filter>Source Files\Array/String</Filter>
+    </ClCompile>
+    <ClCompile Include="StringCompression.cpp">
+      <Filter>Source Files\Array/String</Filter>
+    </ClCompile>
+    <ClCompile Include="ContainerWithTheMostWater.cpp">
+      <Filter>Source Files\TwoPointers</Filter>
+    </ClCompile>
+    <ClCompile Include="IsSubsequence.cpp">
+      <Filter>Source Files\TwoPointers</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxNumberOfKSumPairs.cpp">
+      <Filter>Source Files\TwoPointers</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveZeroes.cpp">
+      <Filter>Source Files\TwoPointers</Filter>
+    </ClCompile>
+    <ClCompile Include="MaximumAverageSubarrayI.cpp">
+      <Filter>Source Files\SlidingWindow</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
